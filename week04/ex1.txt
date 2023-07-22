@@ -1,0 +1,7 @@
+Students(studentID, name, nativeLanguage)
+
+EnrollRelat(studentID, courseName)
+Courses(courseName, credits)
+
+TakesRelat(studentID, specializationName)
+Specializations(specializationName)
